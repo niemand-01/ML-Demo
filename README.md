@@ -12,14 +12,14 @@ pytorch/tensorflow
 google-colab (jupyter-notebook)
 
 # 计划用到的数据库:
-cifar10
+cifar10,mnist
 
 # 计划涉及ML的知识
-1. KNN, KMEANS
-2. CNN 
-3. CNN with residual
-4. RNN with GRU/LSTM
-5. GAN
+1. KNN, KMEANS [x]
+2. CNN [x]
+3. CNN with residual [x]
+4. RNN with GRU/LSTM [x]
+5. GAN [x]
 6. Validation/HP tuning
 7. Transfer learning
 8. YOLO Segmentation 
