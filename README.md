@@ -26,3 +26,5 @@ cifar10,mnist
 9. How to use GPU
 10. Transformer
 11. semi-supervised-learning
+
+12. Decision Tree:classifier+regressor in numpy
