@@ -28,3 +28,4 @@ cifar10,mnist
 11. semi-supervised-learning
 
 12. Decision Tree:classifier+regressor in numpy
+13. Online Deep Learning:Hedge Backpropagation
